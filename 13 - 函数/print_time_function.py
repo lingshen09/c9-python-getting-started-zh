@@ -1,6 +1,6 @@
 import datetime
-# Create a function called print_time
-# This function will print the message and current time
+# Create a function called print_time   创建一个print_time方法
+# This function will print the message and current time  这个方法打印出消息和当前时间
 def print_time():
     print('task completed')
     print(datetime.datetime.now())

@@ -1,4 +1,4 @@
-# Create a function to return the first initial of a name
+# Create a function to return the first initial of a name  创建一个返回首字母的方法
 # Parameters:
 #   name: name of person
 #   force_uppercase: indicates if you always want the initial to be in upppercase
